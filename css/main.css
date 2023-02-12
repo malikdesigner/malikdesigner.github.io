@@ -1924,7 +1924,7 @@ input::-moz-focus-inner {
 }
 
 .intro-pic {
-  background-color: #02182c;
+  background-color: transparent;
   background-repeat: no-repeat;
   background-position: top center;
   background-image: url(../images/my_profile.png);
